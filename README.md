@@ -23,6 +23,6 @@ onde cada cartela deve ter marcado os números sorteados para verificação do p
 
 Ao final do jogo, deverá ser mostrado quem foram os jogadores vencedores e a pontuação de cada um.
 
-Recursos opcionais:
+Recursos Obrigatórios:
 - Cada jogador pode ter mais de uma cartela.
 - O jogo deve ser capaz de ser jogado por mais de 2 jogadores, onde o usuário informa no inicio do programa a quantidade de jogadores que ele deseja.
